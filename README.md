@@ -1,2 +1,2 @@
 # iOS-shortcuts
-Useful shortcuts for iOS 12 Shortcuts that script and simplify common tasks
+Useful shortcuts for the iOS 12 Shortcuts app that script and simplify common tasks
