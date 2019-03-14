@@ -5,7 +5,7 @@ This repo contain useful shortcuts for the iOS 12 Shortcuts app that I have crea
 
 ![Schedule Lunch shortcut icon](https://raw.githubusercontent.com/jmaxwilson/iOs-shortcuts/master/schedule-lunch/icons/icon-64x64.png)
 
-[Schedule Lunch](./schedule-lunch/README.md) | [Install](https://raw.githubusercontent.com/jmaxwilson/iOS-shortcuts/master/schedule-lunch/Schedule%20Lunch.shortcut) | [Code](https://raw.githubusercontent.com/jmaxwilson/iOs-shortcuts/master/schedule-lunch/)
+[Schedule Lunch](./schedule-lunch/README.md) | [Install](https://raw.githubusercontent.com/jmaxwilson/iOS-shortcuts/master/schedule-lunch/Schedule%20Lunch.shortcut) | [Code](./schedule-lunch/)
 
 An iOS shortcut that simplifies adding lunch appointments to your calendar.
 
