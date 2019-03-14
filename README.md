@@ -1,5 +1,5 @@
 # iOS-shortcuts
-This repo contain useful shortcuts for the iOS 12 [Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334) app that I have created to script and simplify common tasks. To install them on your iOS device, open the install link on your device using Safari.
+This repo contains useful shortcuts for the iOS 12 [Shortcuts](https://itunes.apple.com/us/app/shortcuts/id915249334) app that I have created to script and simplify common tasks. To install them on your iOS device, open the install link on your device using Safari.
 
 ## Shortcuts
 
