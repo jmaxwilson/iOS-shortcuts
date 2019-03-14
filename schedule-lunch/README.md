@@ -6,7 +6,7 @@ An iOS shortcut that simplifies adding lunch appointments to your calendar.
 
 You can install the shortcut on your iOS device by opening the following link in Safari:
 
-[Schedule Lunch shortcut](https://github.com/jmaxwilson/iOS-shortcuts/blob/master/schedule-lunch/schedule-lunch.shortcut)
+[Schedule Lunch shortcut](https://raw.githibusercontent.com/jmaxwilson/iOS-shortcuts/master/schedule-lunch/schedule-lunch.shortcut)
 
 | | |
 |--|--|
